@@ -1,4 +1,4 @@
-package org.example.homework_36.strategy;
+package org.example.homework_26.strategy;
 
 public class StrategyExample {
     public static void main(String[] args) {

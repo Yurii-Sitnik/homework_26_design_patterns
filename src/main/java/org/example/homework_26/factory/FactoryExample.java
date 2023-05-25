@@ -1,6 +1,6 @@
 package org.example.homework_26.factory;
 
-public class Main {
+public class FactoryExample {
     public static void main(String[] args) {
         FurnitureFactory furnitureFactory = new FurnitureFactory();
 

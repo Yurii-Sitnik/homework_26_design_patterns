@@ -1,4 +1,4 @@
-package org.example.homework_36.factory;
+package org.example.homework_26.factory;
 
 public enum FurnitureTypes {
     CHAIR,

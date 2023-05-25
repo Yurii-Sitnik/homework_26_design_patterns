@@ -1,4 +1,4 @@
-package org.example.homework_36.strategy;
+package org.example.homework_26.strategy;
 
 public interface Strategy {
     int execute(int a, int b);

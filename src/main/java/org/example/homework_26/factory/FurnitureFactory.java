@@ -1,4 +1,4 @@
-package org.example.homework_36.factory;
+package org.example.homework_26.factory;
 
 public class FurnitureFactory {
     public Furniture getFurniture(FurnitureTypes type) {
